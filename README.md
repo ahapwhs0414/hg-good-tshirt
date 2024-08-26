@@ -30,8 +30,8 @@ Java와 SpringBoot를 통해 개발한 애플리케이션을 [Azure Developer CL
 
 ## 사전준비
 1. [IntelliJ IDEA](https://www.jetbrains.com/ko-kr/idea/)설치하기
-2. 만약 자바가 없다면 [이것](https://www.java.com/ko/download/ie_manual.jsp?locale=ko)을 설치한다.
-3. Docker가 없다면 독커 설치하기 [링크](https://docs.docker.com/desktop/install/mac-install/)로 독커 설치하기
+2. 만약 자바가 없다면 [이것](https://www.java.com/ko/download/ie_manual.jsp?locale=ko)을 설치한다.(맥북유저는 mac으로 java설치하기를 검색하여 설치하여요)
+3. Docker가 없다면 독커 설치하기 [링크](https://docs.docker.com/desktop/install/mac-install/)로 독커 설치하기(윈도우 유저는 window로 독커설치하기를 검색후 설치하여 주세요)
 4. 회원가입 및 로그인이 필요하다면 로그인과 회원가입을 해 주세요.
 5. . [리포지토리](https://github.com/hackersground-kr/hg-good-tshirt.git)를 클론합니다. 
 ## 따라하기
