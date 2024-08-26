@@ -96,13 +96,13 @@ IntelliJ 사이트에 들어가주세요.
       ```git switch master```
    10. 상단에 있는 열기를 클릭
 
-      <img width="376" alt="스크린샷 2024-08-27 오전 5 18 21" src="https://github.com/user-attachments/assets/2a18d4ee-1cef-4030-8fe5-6da8a9c79325">
+       <img width="376" alt="스크린샷 2024-08-27 오전 5 18 21" src="https://github.com/user-attachments/assets/2a18d4ee-1cef-4030-8fe5-6da8a9c79325">
    10-1. 원하는 프로젝트를 쭉 타고 들어가 build.gradle을 클릭
-          
-         <img width="820" alt="스크린샷 2024-08-27 오전 5 19 10" src="https://github.com/user-attachments/assets/09dcc788-205b-4714-b20c-c6d515e94abc">
+   
+   <img width="820" alt="스크린샷 2024-08-27 오전 5 19 10" src="https://github.com/user-attachments/assets/09dcc788-205b-4714-b20c-c6d515e94abc">
    10-2. 파란색 버튼 클릭 및 새로운창에서 열기 클릭
-         
-         <img width="475" alt="스크린샷 2024-08-27 오전 5 20 08" src="https://github.com/user-attachments/assets/502555f2-2e0a-421e-a41d-8f202fef015d">
+   
+   <img width="475" alt="스크린샷 2024-08-27 오전 5 20 08" src="https://github.com/user-attachments/assets/502555f2-2e0a-421e-a41d-8f202fef015d">
 
 
    12. 윈도우인 경우
