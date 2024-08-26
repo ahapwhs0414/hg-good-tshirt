@@ -29,11 +29,43 @@ Java와 SpringBoot를 통해 개발한 애플리케이션을 [Azure Developer CL
 > [IntelliJ IDEA](https://www.jetbrains.com/ko-kr/idea/) 환경과 Mac m2에서 작업하는 것을 기준으로 합니다.
 
 ## 사전준비
-1. [IntelliJ IDEA](https://www.jetbrains.com/ko-kr/idea/)설치하기
-2. 만약 자바가 없다면 [이것](https://www.java.com/ko/download/ie_manual.jsp?locale=ko)을 설치한다.(맥북유저는 mac으로 java설치하기를 검색하여 설치하여요)
-3. Docker가 없다면 독커 설치하기 [링크](https://docs.docker.com/desktop/install/mac-install/)로 독커 설치하기(윈도우 유저는 window로 독커설치하기를 검색후 설치하여 주세요)
+1. [IntelliJ IDEA](https://www.jetbrains.com/ko-kr/idea/)설치하기(설치되지 않으셨다면 아래를 참고해주세요)
+![image](https://github.com/user-attachments/assets/1ca7b9ec-01e5-498e-8a89-a4427238bdc8)
+IntelliJ 사이트에 들어가주세요.
+![image](https://github.com/user-attachments/assets/699838f8-616d-4803-a25f-cc5e3da88569)
+저신의 운영체제에 맞는 파일을 설치해주세요
+![image](https://github.com/user-attachments/assets/9c9c443e-5a26-4042-89d0-4e08c06739c9)
+계속해서 다음을 눌러주세요
+![image](https://github.com/user-attachments/assets/ba6395b1-cbf5-4167-9734-9c96ffcce9e0)
+위 사진의 화면이 나오면 path를 추가해주신 이후 다음을 눌러주세요
+![image](https://github.com/user-attachments/assets/ca3a3619-b87e-4076-b084-f8b20ba1f535)
+설치를 눌러주세요
+![image](https://github.com/user-attachments/assets/2c474700-8940-4a5e-827a-cb7c82ebf90e)
+지금 재부팅을 선택해주시고 마침을 눌러주세요
+
+2. 자바 [이것](https://www.java.com/ko/download/ie_manual.jsp?locale=ko) 설지하기(맥북은 다음 코드로 들어가주세요: https://www.java.com/ko/download/apple.jsp )
+![image](https://github.com/user-attachments/assets/ce1d9330-d646-4141-9847-279a4d982a34)
+자바 다운로드를 클릭해주세요
+![image](https://github.com/user-attachments/assets/753cc2ec-99eb-4ac5-be70-a8ffa6f0ce4d)
+설치를 클릭해주세요
+
+3. Docker [이것](https://www.docker.com/) 설치하기
+![image](https://github.com/user-attachments/assets/1741a4bd-77a6-4e9a-b1d2-13a2f92bd167)
+자신의 운영체제에 맞는 도커를 설치해주세요
+![image](https://github.com/user-attachments/assets/1d57f23b-1d15-4c9d-a3af-42cdcf3e830c)
+둘 다 체크하고 ok를 눌러주세요
+![image](https://github.com/user-attachments/assets/31224e11-8187-42da-80a7-e3bc35339f4d)
+설치가 완료되면 close 해주세요
+
 4. 회원가입 및 로그인이 필요하다면 로그인과 회원가입을 해 주세요.(독커실행도 무조건 하셔야 합니다!)
-5. . [리포지토리](https://github.com/hackersground-kr/hg-good-tshirt.git)를 클론합니다. 
+5. . [리포지토리](https://github.com/hackersground-kr/hg-good-tshirt.git)를 포크합니다.
+![image](https://github.com/user-attachments/assets/7fa32008-ff83-4fa5-ac48-42ec08d02f51)
+Fork 버튼 클릭
+![image](https://github.com/user-attachments/assets/f8bcd18f-12c3-4994-b63d-35d75118bb42)
+Create fork 클
+
+
+
 ## 따라하기
    1. 빈 폴더를 배경화면에 생성해 주세요
 
