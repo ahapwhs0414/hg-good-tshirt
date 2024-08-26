@@ -239,9 +239,9 @@ re-run-allJobs를 클릭한다.
 8.	1번에서 Fork한 조직을 선택하신 이후 리포지토리에서 SODAM_WEB_V1을 선택해주세요
 
 9.	검토 + 만들기를 눌러주세요.
- ![image](https://github.com/user-attachments/assets/83298d21-0a89-4458-bb56-7d74f29b38ad)
 
 10.	만들기를 눌러주세요
+ ![image](https://github.com/user-attachments/assets/83298d21-0a89-4458-bb56-7d74f29b38ad)
 
 11.	배포가 완료되면 sodamf 리소스로 이동해주세요
  ![image](https://github.com/user-attachments/assets/3f4e936a-c24c-4ba5-80dc-e8f6e45a4711)
