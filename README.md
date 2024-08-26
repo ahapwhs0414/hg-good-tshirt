@@ -58,11 +58,7 @@ IntelliJ 사이트에 들어가주세요.
 설치가 완료되면 close 해주세요
 
 4. 회원가입 및 로그인이 필요하다면 로그인과 회원가입을 해 주세요.(독커실행도 무조건 하셔야 합니다!)
-5. . [리포지토리](https://github.com/hackersground-kr/hg-good-tshirt.git)를 포크합니다.
-![image](https://github.com/user-attachments/assets/7fa32008-ff83-4fa5-ac48-42ec08d02f51)
-Fork 버튼 클릭
-![image](https://github.com/user-attachments/assets/f8bcd18f-12c3-4994-b63d-35d75118bb42)
-Create fork 클릭
+
 
 
 
