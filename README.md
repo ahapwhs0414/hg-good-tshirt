@@ -62,7 +62,7 @@ IntelliJ 사이트에 들어가주세요.
 ![image](https://github.com/user-attachments/assets/7fa32008-ff83-4fa5-ac48-42ec08d02f51)
 Fork 버튼 클릭
 ![image](https://github.com/user-attachments/assets/f8bcd18f-12c3-4994-b63d-35d75118bb42)
-Create fork 클
+Create fork 클릭
 
 
 
