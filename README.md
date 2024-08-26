@@ -247,7 +247,6 @@ re-run-allJobs를 클릭한다.
  ![image](https://github.com/user-attachments/assets/3f4e936a-c24c-4ba5-80dc-e8f6e45a4711)
 
 12.	리소스에서 Github 작업 실행을 눌러주세요.
- ![Uploading image.png…]()
 
 13.	액션이 완료되었다면 프론트엔드 배포 끝입니다!
 
