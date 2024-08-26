@@ -94,30 +94,40 @@ IntelliJ 사이트에 들어가주세요.
    9. 브랜치를 변경합니다 (아래코드를 실행해 주세요)
 
       ```git switch master```
+   10. 상단에 있는 열기를 클릭
 
-   11. 윈도우인 경우
+      <img width="376" alt="스크린샷 2024-08-27 오전 5 18 21" src="https://github.com/user-attachments/assets/2a18d4ee-1cef-4030-8fe5-6da8a9c79325">
+   10-1. 원하는 프로젝트를 쭉 타고 들어가 build.gradle을 클릭
+          
+         <img width="820" alt="스크린샷 2024-08-27 오전 5 19 10" src="https://github.com/user-attachments/assets/09dcc788-205b-4714-b20c-c6d515e94abc">
+   10-2. 파란색 버튼 클릭 및 새로운창에서 열기 클릭
+         
+         <img width="475" alt="스크린샷 2024-08-27 오전 5 20 08" src="https://github.com/user-attachments/assets/502555f2-2e0a-421e-a41d-8f202fef015d">
+
+
+   12. 윈도우인 경우
        ```winget install microsoft.azd```
        맥북인 경우
        ```curl -fsSL https://aka.ms/install-azd.sh | bash```
        password창엔 컴퓨터 비밀번호 눌러주세요
-   12. ```azd auth login``` 명령어 실행하여 Azure로그인해 주세요
+   13. ```azd auth login``` 명령어 실행하여 Azure로그인해 주세요
    
-   13. 아래의 코드를 따라합니다
+   14. 아래의 코드를 따라합니다
 
        ```azd init -e good-tshirt```
-   14. 이런 문구가 뜬다면 엔터를 누르세요
+   15. 이런 문구가 뜬다면 엔터를 누르세요
 
        <img width="731" alt="스크린샷 2024-08-26 오후 4 24 38" src="https://github.com/user-attachments/assets/c16596c1-33ac-4ac5-8e3d-0327df5f1f4c">
-   15. 그 다음 y를 작성후 엔터를 눌러 주세요
+   16. 그 다음 y를 작성후 엔터를 눌러 주세요
 
        <img width="646" alt="스크린샷 2024-08-26 오후 4 25 34" src="https://github.com/user-attachments/assets/78c82030-9e71-4c1e-9776-3989c470cb58">
-   16. 방향키를 통해 JAVA로 이동하여 엔터를 눌러주세요
+   17. 방향키를 통해 JAVA로 이동하여 엔터를 눌러주세요
 
        <img width="623" alt="스크린샷 2024-08-26 오후 5 36 10" src="https://github.com/user-attachments/assets/9e40ade2-0849-434f-b459-497449d18019">
-   17. 이런 문구가 뜨면 tab을 눌러주세요
+   18. 이런 문구가 뜨면 tab을 눌러주세요
 
        <img width="614" alt="스크린샷 2024-08-26 오후 5 36 42" src="https://github.com/user-attachments/assets/08b082f4-05c7-47c4-b5a1-4d150a620a0b">
-   18. 이동하지 않고 엔터
+   19. 이동하지 않고 엔터
 
        <img width="530" alt="스크린샷 2024-08-26 오후 6 38 27" src="https://github.com/user-attachments/assets/2cdb1308-937a-4106-b526-fe9fc84ab9ba">
 
