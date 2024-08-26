@@ -108,6 +108,9 @@ IntelliJ 사이트에 들어가주세요.
 root.build.libs 안에 jar파일이 생성되었는지 확인한다.(SNAPSHOT.jar가 아님!!)
 만약 없다면 코드를 재실행하거나 ```./gradlew clean build``를 입력하며 생성될때까지 한댜
 
+오늘쪽의 코끼리 모양을 누르고 Task -> build 로 이동 후 clean과 build를 각각 실행시켜보는것도 시도해 본다.
+<img width="267" alt="스크린샷 2024-08-27 오전 7 01 34" src="https://github.com/user-attachments/assets/356bc1f2-5d3f-4b85-b003-116bc60e5209">
+
    13. 윈도우인 경우
        ```winget install microsoft.azd```
        맥북인 경우
