@@ -104,78 +104,79 @@ IntelliJ 사이트에 들어가주세요.
 11. 브랜치를 변경합니다 (아래코드를 실행해 주세요)
 
       ```git switch master```
+   ```./gradlew build```
 
-   12. 윈도우인 경우
+   13. 윈도우인 경우
        ```winget install microsoft.azd```
        맥북인 경우
        ```curl -fsSL https://aka.ms/install-azd.sh | bash```
        password창엔 컴퓨터 비밀번호 눌러주세요
-   13. ```azd auth login``` 명령어 실행하여 Azure로그인해 주세요
+   14. ```azd auth login``` 명령어 실행하여 Azure로그인해 주세요
    
-   14. 아래의 코드를 따라합니다
+   15. 아래의 코드를 따라합니다
 
        ```azd init -e good-tshirt```
-   15. 이런 문구가 뜬다면 엔터를 누르세요
+   16. 이런 문구가 뜬다면 엔터를 누르세요
 
        <img width="731" alt="스크린샷 2024-08-26 오후 4 24 38" src="https://github.com/user-attachments/assets/c16596c1-33ac-4ac5-8e3d-0327df5f1f4c">
-   16. 그 다음 y를 작성후 엔터를 눌러 주세요
+   17. 그 다음 y를 작성후 엔터를 눌러 주세요
 
        <img width="646" alt="스크린샷 2024-08-26 오후 4 25 34" src="https://github.com/user-attachments/assets/78c82030-9e71-4c1e-9776-3989c470cb58">
-   17. 방향키를 통해 JAVA로 이동하여 엔터를 눌러주세요
+   18. 방향키를 통해 JAVA로 이동하여 엔터를 눌러주세요
 
        <img width="623" alt="스크린샷 2024-08-26 오후 5 36 10" src="https://github.com/user-attachments/assets/9e40ade2-0849-434f-b459-497449d18019">
-   18. 이런 문구가 뜨면 tab을 눌러주세요
+   19. 이런 문구가 뜨면 tab을 눌러주세요
 
        <img width="614" alt="스크린샷 2024-08-26 오후 5 36 42" src="https://github.com/user-attachments/assets/08b082f4-05c7-47c4-b5a1-4d150a620a0b">
-   19. 이동하지 않고 엔터
+   20. 이동하지 않고 엔터
 
        <img width="530" alt="스크린샷 2024-08-26 오후 6 38 27" src="https://github.com/user-attachments/assets/2cdb1308-937a-4106-b526-fe9fc84ab9ba">
 
-   20. 이런게 뜨면 그냥 엔터쳐 주세요
+   21. 이런게 뜨면 그냥 엔터쳐 주세요
       
        <img width="750" alt="스크린샷 2024-08-26 오후 4 35 10" src="https://github.com/user-attachments/assets/de32601b-bb4d-496a-90dd-78c88ba34e8c">
-   21. 또 엔터쳐 주세요
+   22. 또 엔터쳐 주세요
       
        <img width="688" alt="스크린샷 2024-08-26 오후 4 36 06" src="https://github.com/user-attachments/assets/3e4b52a0-6146-49dc-9bc8-6a4306264eed">
-   22. SUCCESS: Your app is ready for the cloud! 가 뜨면 성공!
+   23. SUCCESS: Your app is ready for the cloud! 가 뜨면 성공!
       
        <img width="1027" alt="스크린샷 2024-08-26 오후 4 36 29" src="https://github.com/user-attachments/assets/1669019d-fd79-496d-9a57-e9ee1c277210">
         
-23. ```azd up``` 명령어 실행
-24. 엔터 누르기
+24. ```azd up``` 명령어 실행
+25. 엔터 누르기
    
     <img width="635" alt="스크린샷 2024-08-26 오후 5 42 23" src="https://github.com/user-attachments/assets/40fd826e-bd60-4e9f-99dc-e516484fcfa6">
 
-25. 또 엔터 누르기
+26. 또 엔터 누르기
 
     <img width="587" alt="스크린샷 2024-08-26 오후 5 42 56" src="https://github.com/user-attachments/assets/b2ee1c3b-87b6-455d-b4a7-c3793adaffcd">
-26. 터미널창에 아래 코드를 입력합니다.
+27. 터미널창에 아래 코드를 입력합니다.
 
     ```git init```
     ```git add .```
     ```git commit -m "Initial commit```
 
-27. 개인 깃허브 프로필에 들어가 레포지토리 클릭 후 new를 클릭합니다.
+28. 개인 깃허브 프로필에 들어가 레포지토리 클릭 후 new를 클릭합니다.
 
     <img width="497" alt="스크린샷 2024-08-26 오후 6 02 34" src="https://github.com/user-attachments/assets/6cf1f244-becb-42b6-9a21-e70c02b0c156">
-28. 이름을 sodam으로 지정 후 아래로 스크롤하여 레포지토리 생성버튼을 클릭합니다.
+29. 이름을 sodam으로 지정 후 아래로 스크롤하여 레포지토리 생성버튼을 클릭합니다.
 
     <img width="753" alt="스크린샷 2024-08-26 오후 6 03 43" src="https://github.com/user-attachments/assets/93e2ab8c-bfdc-4aa5-a5d4-9cd661aad877">
     <img width="775" alt="스크린샷 2024-08-26 오후 6 03 55" src="https://github.com/user-attachments/assets/c4bdc3be-2d92-4bbc-a492-ae9c1253b2c9">
 
-29. 그림에 https://github.com/GayeongKimm/sodam.git 로 해당하는 부분을 복사해 주세요(앞의 링크가 아닌 사진에 위치한 여러분의 링크를 복사하란 뜻 입니다.)
+30. 그림에 https://github.com/GayeongKimm/sodam.git 로 해당하는 부분을 복사해 주세요(앞의 링크가 아닌 사진에 위치한 여러분의 링크를 복사하란 뜻 입니다.)
 
     <img width="1470" alt="스크린샷 2024-08-26 오후 6 42 33" src="https://github.com/user-attachments/assets/0b4d3e77-9ebf-404a-89ae-4cb52e12c3ca">
-30. 아래코드를 차례대로 입력해 주세요
+31. 아래코드를 차례대로 입력해 주세요
 ```git remote remove origin``` 
 ```git remote add origin {아까 복사한 주소}```
 ```git push origin main```
 
-31. 푸시가 될때까지 잠깐기다리세요 
-32. azure로 돌아와 azure SQL에 접속하여 만들기를 클릭합니다.
+32. 푸시가 될때까지 잠깐기다리세요 
+33. azure로 돌아와 azure SQL에 접속하여 만들기를 클릭합니다.
 
     <img width="1470" alt="스크린샷 2024-08-26 오후 6 48 52" src="https://github.com/user-attachments/assets/fd4a8f0a-035c-4eeb-acd2-31e8f5933e4d">
-33. <img width="1470" alt="스크린샷 2024-08-26 오후 6 50 21" src="https://github.com/user-attachments/assets/40c1776e-a360-459e-8195-8aa05c59cbc4">
+34. <img width="1470" alt="스크린샷 2024-08-26 오후 6 50 21" src="https://github.com/user-attachments/assets/40c1776e-a360-459e-8195-8aa05c59cbc4">
 
 리소스 그룹에서 rd-good-tshirt를 선택후 이름과 위치를 사진과 같이 합니다.
 
