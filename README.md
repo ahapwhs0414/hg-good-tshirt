@@ -105,6 +105,8 @@ IntelliJ 사이트에 들어가주세요.
 
       ```git switch master```
    ```./gradlew build```
+root.build.libs 안에 jar파일이 생성되었는지 확인한다.(SNAPSHOT.jar가 아님!!)
+만약 없다면 코드를 재실행하거나 ```./gradlew clean build``를 입력하며 생성될때까지 한댜
 
    13. 윈도우인 경우
        ```winget install microsoft.azd```
