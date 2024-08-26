@@ -109,7 +109,7 @@ Create fork 클
    
    13. 아래의 코드를 따라합니다
 
-       ```azd init -e hg-good-tshirt```
+       ```azd init -e good-tshirt```
    14. 이런 문구가 뜬다면 엔터를 누르세요
 
        <img width="731" alt="스크린샷 2024-08-26 오후 4 24 38" src="https://github.com/user-attachments/assets/c16596c1-33ac-4ac5-8e3d-0327df5f1f4c">
