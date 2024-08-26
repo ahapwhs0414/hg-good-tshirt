@@ -29,7 +29,6 @@ Java와 SpringBoot를 통해 개발한 애플리케이션을 [Azure Developer CL
 > [IntelliJ IDEA](https://www.jetbrains.com/ko-kr/idea/) 환경과 Mac m2에서 작업하는 것을 기준으로 합니다.
 
 ## 사전준비
-!!! MacBook으로 해 주세요!!!
 1. [IntelliJ IDEA](https://www.jetbrains.com/ko-kr/idea/)설치하기
 2. 만약 자바가 없다면 [이것](https://www.java.com/ko/download/ie_manual.jsp?locale=ko)을 설치한다.
 3. Docker가 없다면 독커 설치하기 [링크](https://docs.docker.com/desktop/install/mac-install/)로 독커 설치하기
