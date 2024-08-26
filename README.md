@@ -181,3 +181,45 @@ re-run-allJobs를 클릭한다.
 <img width="1470" alt="스크린샷 2024-08-26 오후 7 12 45" src="https://github.com/user-attachments/assets/608d47bf-bc0a-4247-aba1-4c2d8d8c3942">
 
 기다리시다 초록불이 뜨면 액션성공이다.
+
+
+
+
+
+
+
+
+1.	깃허브에 로그인한 이후 https://github.com/ahapwhs0414/SODAM_WEB_V1 을 Fork해주세요
+
+2.	에져 ( https://portal.azure.com/#home )에 들어가신 후 백엔드가 배포되어있는 리포지터리에 들어가주세요
+   ![image](https://github.com/user-attachments/assets/80ae99e9-ee72-4eb2-a7b7-a7385a67ba38)
+
+3.	  리포지터리에서 만들기를 눌러주세요
+   ![image](https://github.com/user-attachments/assets/2bf51de8-4147-4e75-aa4b-e29d9c5b54d7)
+
+4.	  마켓 플레이스에서 정적 웹앱을 눌러주세요
+   ![image](https://github.com/user-attachments/assets/11a30f05-8bbb-4fa9-9fca-3238a58dc85f)
+
+5.	 만들기를 눌러주세요
+   ![image](https://github.com/user-attachments/assets/8810160f-7d02-46d1-8062-4790d8e0b3b7)
+ 
+6.	구독과 리소스 그룹은 건드리지 않고 이름을 sodamf로 입력해주세요
+
+7.	Github 계정을 자신의 깃허브 계정으로 로그인해주세요
+![image](https://github.com/user-attachments/assets/4f30a922-9568-4c52-9f2d-adf0992b7a57)
+ 
+8.	1번에서 Fork한 조직을 선택하신 이후 리포지토리에서 SODAM_WEB_V1을 선택해주세요
+
+9.	검토 + 만들기를 눌러주세요.
+ ![image](https://github.com/user-attachments/assets/83298d21-0a89-4458-bb56-7d74f29b38ad)
+
+10.	만들기를 눌러주세요
+
+11.	배포가 완료되면 sodamf 리소스로 이동해주세요
+ ![image](https://github.com/user-attachments/assets/3f4e936a-c24c-4ba5-80dc-e8f6e45a4711)
+
+12.	리소스에서 Github 작업 실행을 눌러주세요.
+ ![Uploading image.png…]()
+
+13.	액션이 완료되었다면 프론트엔드 배포 끝입니다!
+
