@@ -94,7 +94,8 @@ IntelliJ 사이트에 들어가주세요.
    9. 브랜치를 변경합니다 (아래코드를 실행해 주세요)
 
       ```git switch master```
-       
+
+   10. ```./gradlew build``` 명령어를 실행하여주세요
    11. 윈도우인 경우
        ```winget install microsoft.azd```
        맥북인 경우
