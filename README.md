@@ -191,7 +191,7 @@ re-run-allJobs를 클릭한다.
 
 1.	깃허브에 로그인한 이후 https://github.com/ahapwhs0414/SODAM_WEB_V1 을 Fork해주세요
 
-2.	에져 ( https://portal.azure.com/#home )에 들어가신 후 백엔드가 배포되어있는 리포지터리에 들어가주세요
+2.	에져 ( https://portal.azure.com/#home )에 들어가신 후 백엔드가 배포되어있는 리포지터리(https://portal.azure.com/#@hackersground.kr/resource/subscriptions/bfa39d86-1058-4824-8074-e9d283d6c321/resourceGroups/rg-good-tshirt/overview)에 들어가주세요
    ![image](https://github.com/user-attachments/assets/80ae99e9-ee72-4eb2-a7b7-a7385a67ba38)
 
 3.	  리포지터리에서 만들기를 눌러주세요
