@@ -91,9 +91,6 @@ IntelliJ 사이트에 들어가주세요.
    8. 좌측 하단에 있는 터미널창을 열어주세요
       
       <img width="182" alt="스크린샷 2024-08-26 오후 4 20 41" src="https://github.com/user-attachments/assets/140c56a1-2d2f-4bd4-bc08-2634fb9b62e0">
-   9. 브랜치를 변경합니다 (아래코드를 실행해 주세요)
-
-      ```git switch master```
    10. 상단에 있는 열기를 클릭
 
        <img width="376" alt="스크린샷 2024-08-27 오전 5 18 21" src="https://github.com/user-attachments/assets/2a18d4ee-1cef-4030-8fe5-6da8a9c79325">
@@ -104,6 +101,9 @@ IntelliJ 사이트에 들어가주세요.
    
    <img width="475" alt="스크린샷 2024-08-27 오전 5 20 08" src="https://github.com/user-attachments/assets/502555f2-2e0a-421e-a41d-8f202fef015d">
 
+11. 브랜치를 변경합니다 (아래코드를 실행해 주세요)
+
+      ```git switch master```
 
    12. 윈도우인 경우
        ```winget install microsoft.azd```
