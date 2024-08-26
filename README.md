@@ -154,7 +154,7 @@ IntelliJ 사이트에 들어가주세요.
     <img width="753" alt="스크린샷 2024-08-26 오후 6 03 43" src="https://github.com/user-attachments/assets/93e2ab8c-bfdc-4aa5-a5d4-9cd661aad877">
     <img width="775" alt="스크린샷 2024-08-26 오후 6 03 55" src="https://github.com/user-attachments/assets/c4bdc3be-2d92-4bbc-a492-ae9c1253b2c9">
 
-29. 그림에 https://github.com/GayeongKimm/sodam.git 로 해당하는 부분을 복사해 주세요
+29. 그림에 https://github.com/GayeongKimm/sodam.git 로 해당하는 부분을 복사해 주세요(앞의 링크가 아닌 사진에 위치한 여러분의 링크를 복사하란 뜻 입니다.)
 
     <img width="1470" alt="스크린샷 2024-08-26 오후 6 42 33" src="https://github.com/user-attachments/assets/0b4d3e77-9ebf-404a-89ae-4cb52e12c3ca">
 30. 아래코드를 차례대로 입력해 주세요
